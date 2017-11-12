@@ -1,5 +1,6 @@
 # Raycasting
 
+![Raycasting](https://media.giphy.com/media/l1Joi3kF1k4RQEM7K/giphy.gif)
 
 This is a simple 3D raycasting data pack with the following features:
  * Both instant rays and dynamic rays (in this case a fireball)
