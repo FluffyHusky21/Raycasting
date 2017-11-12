@@ -1,3 +1,4 @@
+#This scoreboard value affects how far an instant ray travels
 scoreboard players set in_0 ray_data 100
 
 scoreboard players operation temp_0 ray_data = temp_cosx ray_data
