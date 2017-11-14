@@ -1,4 +1,4 @@
-#travel distance for insant ray, in arbitrary units. Value: 0-1500
+#travel distance for insant ray, in arbitrary units. Value > 0
 scoreboard players set instant_distance mech_data 1000
 
 
