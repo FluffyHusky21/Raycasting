@@ -1,0 +1,10 @@
+execute if entity @s[scores={mech_data=400}] run scoreboard players set out_0 mech_data 6428
+execute if entity @s[scores={mech_data=401}] run scoreboard players set out_0 mech_data 6441
+execute if entity @s[scores={mech_data=402}] run scoreboard players set out_0 mech_data 6455
+execute if entity @s[scores={mech_data=403}] run scoreboard players set out_0 mech_data 6468
+execute if entity @s[scores={mech_data=404}] run scoreboard players set out_0 mech_data 6481
+execute if entity @s[scores={mech_data=405}] run scoreboard players set out_0 mech_data 6494
+execute if entity @s[scores={mech_data=406}] run scoreboard players set out_0 mech_data 6508
+execute if entity @s[scores={mech_data=407}] run scoreboard players set out_0 mech_data 6521
+execute if entity @s[scores={mech_data=408}] run scoreboard players set out_0 mech_data 6534
+execute if entity @s[scores={mech_data=409}] run scoreboard players set out_0 mech_data 6547

@@ -1,0 +1,10 @@
+execute if entity @s[scores={mech_data=400..409}] run function raycast:math/sine_lookup/look_400_499/lookup_400_409
+execute if entity @s[scores={mech_data=410..419}] run function raycast:math/sine_lookup/look_400_499/lookup_410_419
+execute if entity @s[scores={mech_data=420..429}] run function raycast:math/sine_lookup/look_400_499/lookup_420_429
+execute if entity @s[scores={mech_data=430..439}] run function raycast:math/sine_lookup/look_400_499/lookup_430_439
+execute if entity @s[scores={mech_data=440..449}] run function raycast:math/sine_lookup/look_400_499/lookup_440_449
+execute if entity @s[scores={mech_data=450..459}] run function raycast:math/sine_lookup/look_400_499/lookup_450_459
+execute if entity @s[scores={mech_data=460..469}] run function raycast:math/sine_lookup/look_400_499/lookup_460_469
+execute if entity @s[scores={mech_data=470..479}] run function raycast:math/sine_lookup/look_400_499/lookup_470_479
+execute if entity @s[scores={mech_data=480..489}] run function raycast:math/sine_lookup/look_400_499/lookup_480_489
+execute if entity @s[scores={mech_data=490..499}] run function raycast:math/sine_lookup/look_400_499/lookup_490_499
