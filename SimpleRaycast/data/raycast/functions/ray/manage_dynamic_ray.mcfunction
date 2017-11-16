@@ -5,6 +5,9 @@ execute store result score temp_2 mech_data run data get entity @s Pos[2] 50000
 scoreboard players remove @s mech_data 10
 function raycast:ray/manage_dynamic_ray_2
 
+#Kill ray if timer is expired
 execute unless score @s mech_data > con_0 mech_data run kill @s
+#Kill ray if at block
 execute at @s unless block ~ ~ ~ air run kill @s
+#Kill ray if collides with entity.
 execute at @s offset ~ ~-1 ~ if entity @e[distance=..0.75,nbt={DeathTime:0s},tag=!ray_caster] run kill @s
